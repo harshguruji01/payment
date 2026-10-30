@@ -1,5 +1,2 @@
 User-agent: *
-Allow: /
-Disallow: /api/
-
-Sitemap: https://payment.webguruji.online/sitemap.xml
+Disallow: /
